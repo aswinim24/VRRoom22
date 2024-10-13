@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VRRoom22
+/.vs/VRRoom22/FileContentIndex
+/.vs/VRRoom22/v17
+/.vs/VSWorkspaceState.json
+/obj
+/obj/Debug
+/obj/Release
+/UserSettings
+/UserSettings/EditorUserSettings.asset
+/UserSettings/Layouts
+/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+/UserSettings/Layouts/default-2022.dwlt
+/UserSettings/Search.index
+/UserSettings/Search.settings
